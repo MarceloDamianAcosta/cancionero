@@ -1,0 +1,57 @@
+{
+  "El amor de Jesús": {
+    "estrofas": [
+      "Aunque en palacios ÉL vivía,\nen un pesebre nació\ny desde pequeñito sirvió con amor.\n-----------------------",
+      "OOH OOH OOH\nOOOOOOOOH\n-----------------------",
+      "\n-----------------------\nResucitó al tercer día,\nque felicidad!\nAhora está allá en el cielo,\n muy pronto volverá.\n-----------------------",
+      "AAH AAH AAH\nAAAAAAAAH\n-----------------------",
+      "LA RA LA RA LA LA\nLARA LARA LALA\nEl amor de Jesús\nLARA LARA LARA x2\n"
+    ],
+    "coro": "Coro\nEl amor de Jesús\npuedo ver en la cruz.\nTanto, tanto me amó\nque me dió salvación. x2\n-----------------------",
+    "orden": [0, 1, "coro", 2, 3, "coro",4]
+  },
+  "Venid pastorcillos": {
+    "estrofas": [
+      "Venid, pastorillos, \nvenid a adorar\nal Rey de los cielos\nnacido en Judá;\nsin ricas ofrendas\npodemos llegar,\nque el Niño prefiere\nla fe y al bondad.\n-----------------------",
+      "Un rústico techo\nabrigo le da,\npor cuna un pesebre,\npor templo un portal;\nen lecho de pajas incógnito está,\nquien quiso a los astros\nsu gloria prestar.\n-----------------------",
+      "Hermoso lucero\nle vino a anunciar,\ny magos de oriente\nbuscándole van;\ndelante se postran\ndel Rey de Judá;\nde incienso, oro y mirra,\ntributo le dan."
+    ],
+    "coro": "El coro de esta segunda canción.",
+    "orden": [0,1,2]
+  },
+    "Noche de paz": {
+        "estrofas": [
+        "Noche de paz, noche de amor,\ntodo duerme en derredor.\nEntre los astros que esparcen su luz\nbella anunciando al niñito Jesús,\nbrilla la estrella de paz,\nbrilla la estrella de paz.\n-----------------------",
+        "Noche de paz, noche de amor,\nOye humilde, fiel pastor:\nCoros celestes que proclaman salud,\ngracias y glorias en gran plenitud,\npor nuestro buen Redentor,\npor nuestro buen Redentor.\n-----------------------",
+        "Noche de paz, noche de amor,\nVed que bello resplandor\nluce en el rostro del niño Jesús,\nen el pesebre, del mundo la luz,\nastro de eterno fulgor,\nastro de eterno fulgor."
+        ],
+        "coro": "Coro de la canción 3",
+        "orden": [0,1,2]
+    },
+  "Ya repican las campanas": {
+    "estrofas": [
+      "Ya repican las campanas\nalabanddo al Señor.\nNuestros cantos elevemos\ncual aves al Señor.\nEs la estación festiva\nNuestras voces jubilosas\nden la gloria al cantar\n-----------------------",
+      "No existe otro sitio\nmás querido que el hogar.\nNuestras preocupaciones\nallí suelen disipar.\nJesucristo, nuestro hermano,\nnos reune con amor.\nFue al hijo de María\nque alabaron con fervor.\n-----------------------",
+      "Es de la época dichosa\ny de gran felicidad.\nHaya paz entre los hombre\ny la buena voluntad.\nCompartamos bendiciones,\nnuestro pan y nuestro amor.\nBrille Cristo en nuestras vidas,\nalabemos al Señor."
+      ],
+    "coro": "Coro de la canción 4",
+    "orden": [0,1,2]
+  },
+  "Al mundo paz": {
+    "estrofas": [
+      "Al mundo paz, nació Jesus,\nnació ya nuestro Rey!\nEl corazón ya tiene luz,\ny paz su santa grey,\ny paz su santa grey,\ny paz, y paz su santa grey.\n-----------------------",
+      "Al mundo paz; el Salvador,\nsupremo reinará!\nYa es feliz el pecador,\nJesús perdón le da,\nJesús perdón le da,\nJesús, Jesús perdón le da.\n-----------------------",
+      "Al mundo él gobernará\ncon gracia y con poder;\ny a toda nación demostrará\nsu amor y su poder,\nsu amor y su poder,\nsu amor, su amor y su poder."
+    ],
+    "coro": "Coro de la canción 5",
+    "orden": [0,1,2]
+  },
+  "Ángeles cantando están": {
+    "estrofas": [
+      "Ángeles cantando están\nbella y celestial canción.\nSus palabras gozo dan\na la entera creación.\n-----------------------",
+      "\n-----------------------\nHoy anuncian con fervor\npaz y buena voluntad;\npues nació el Salvador\nde la pobre humanidad.\n-----------------------"
+    ],
+    "coro": "Coro\nGloria, in excelsis Deo,\nGloria, in excelsis Deo.",
+    "orden": [0,"coro",1,"coro"]
+  }
+}
