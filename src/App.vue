@@ -21,7 +21,7 @@ const goBack = () => {
   <header>
     <img alt="logo" class="logo" src="./assets/logo.svg" width="125" height="125" />
     <div class="wrapper">
-      <HelloWorld msg="BIENVENIDO!" />
+      <HelloWorld msg="Hola" />
     </div>
   </header>
 
